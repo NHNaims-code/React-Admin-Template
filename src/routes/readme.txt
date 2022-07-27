@@ -1,0 +1,1 @@
+Routes folder created for save all available routing path in one place. Navigate all pages from here

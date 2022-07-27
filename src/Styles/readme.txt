@@ -1,0 +1,1 @@
+This folder created for module css. Module css only working on single jsx file where it will imported.

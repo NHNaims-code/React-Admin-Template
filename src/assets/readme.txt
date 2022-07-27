@@ -1,0 +1,1 @@
+This folder created for store all graphics and svg components
